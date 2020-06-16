@@ -1,4 +1,5 @@
-﻿using System;
+﻿// Copyright ©  2020 SIL International.  Licensed under GPL 3.0 (so as to use Shipwreck library).
+using System;
 using System.Globalization;
 using System.IO;
 using System.Text;

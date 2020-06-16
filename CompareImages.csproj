@@ -80,6 +80,7 @@
   <ItemGroup>
     <Compile Include="CompareImageHashes.cs" />
     <Compile Include="HashImage.cs" />
+    <Compile Include="PhashHelper.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
